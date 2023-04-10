@@ -11,7 +11,7 @@ https://github.com/AM-STUDIO/32-FUNCTION-BUTTON-BOX#32-function-button-box
 
 About
 -----
-This is a small project of Arduino Leonardo (PRO-micor) Joystick.
+This is a small project of Arduino Leonardo (PRO-micro) Joystick.
 Project is based on:
 
 32-FUNCTION-BUTTON-BOX
