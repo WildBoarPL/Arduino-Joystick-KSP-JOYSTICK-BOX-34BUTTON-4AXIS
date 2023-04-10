@@ -18,7 +18,7 @@ Project is based on:
 
 https://github.com/AM-STUDIO/32-FUNCTION-BUTTON-BOX#32-function-button-box
  
-The main laout and purpose is for Kerbal Space Program game. 
+The main layout and purpose is for Kerbal Space Program game. 
 
 Modification
 ------------
