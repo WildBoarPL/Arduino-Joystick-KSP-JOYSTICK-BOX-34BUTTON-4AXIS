@@ -27,3 +27,4 @@ Modification
 2. Matrix for buttons is extended to 6x6 (yes... posbility of 36 buttons)
 3. Four of those buttons are used for HAT-switch capability
 
+So I end up with... 34 button, 4 axis and HAT switck JOYSTICK :)
