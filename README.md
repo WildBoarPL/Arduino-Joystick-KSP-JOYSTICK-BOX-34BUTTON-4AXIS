@@ -23,8 +23,8 @@ The main laout and purpose is for Kerbal Space Program game.
 Modification
 ------------
 
-1. I get rid of 3 rotaries, to give space for 4-asix.
+1. I get rid of 3 rotaries, to give space for 4-axis.
 2. Matrix for buttons is extended to 6x6 (yes... posbility of 36 buttons)
 3. Four of those buttons are used for HAT-switch capability
 
-So I end up with... 34 button, 4 axis and HAT switck JOYSTICK :)
+So I end up with... 34 button, 4 axis and HAT switch enabled JOYSTICK :)
